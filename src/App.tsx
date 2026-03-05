@@ -35,11 +35,11 @@ interface Motorcycle {
 const MOTORCYCLES: Motorcycle[] = [
   {
     id: "4",
-    name: "ZX636 Ninja",
+    name: "ZX636",
     brand: "Kawasaki",
     year: 2003,
     image: "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&q=80&w=1000",
-    description: "Every sportbike rider wants a clear 'advantage' – a technological edge the competition can't touch. The Ninja ZX636 features a 636cc DOHC inline four engine with electronic fuel injection, close-ratio gearbox, lightweight aluminum frame and revised Uni-Trak rear suspension.",
+    description: "Every sportbike rider wants a clear 'advantage' – a technological edge the competition can't touch. The ZX636 features a 636cc DOHC inline four engine with electronic fuel injection, close-ratio gearbox, lightweight aluminum frame and revised Uni-Trak rear suspension.",
     specs: [
       { label: "Potencia", value: 118, max: 220, unit: "HP", icon: <Zap className="w-4 h-4" />, color: "bg-green-600" },
       { label: "Torque", value: 68.8, max: 150, unit: "Nm", icon: <Activity className="w-4 h-4" />, color: "bg-lime-500" },
@@ -102,7 +102,7 @@ const MOTORCYCLES: Motorcycle[] = [
   },
   {
     id: "3",
-    name: "Ninja H2R",
+    name: "H2R",
     brand: "Kawasaki",
     year: 2024,
     image: "https://images.unsplash.com/photo-1614165933026-0750fbd7bda2?auto=format&fit=crop&q=80&w=1000",
