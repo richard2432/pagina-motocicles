@@ -38,7 +38,7 @@ const MOTORCYCLES: Motorcycle[] = [
     name: "ZX636 Ninja",
     brand: "Kawasaki",
     year: 2003,
-    image: "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?auto=format&fit=crop&q=80&w=1000",
+    image: "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&q=80&w=1000",
     description: "Every sportbike rider wants a clear 'advantage' – a technological edge the competition can't touch. The Ninja ZX636 features a 636cc DOHC inline four engine with electronic fuel injection, close-ratio gearbox, lightweight aluminum frame and revised Uni-Trak rear suspension.",
     specs: [
       { label: "Potencia", value: 118, max: 220, unit: "HP", icon: <Zap className="w-4 h-4" />, color: "bg-green-600" },
